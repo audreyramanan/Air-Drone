@@ -1,0 +1,65 @@
+body {
+    color: #000000;
+    font-family: sans-serif;     
+}
+.navbar{
+    background-color: white;
+    margin: auto;
+    border-bottom: 1px solid #D5D5D5;
+}
+.img-fluid{
+    width: 100px;
+    height: 50px;
+    margin-right: 20px;
+}
+h1 {
+    font-family: Impact, fantasy; 
+}
+
+.jumbotron {
+    background-image: url("image-background.png");
+    height: 110vh;
+    background-size: cover;
+    border-top: 1px solid #E6B0AA;
+    border-bottom: 1px solid #E6B0AA;
+}
+
+.text-align-center {
+    text-align: center;
+}
+
+.value-proposition {
+    margin-top: 300px;
+    margin-left: 30px
+}
+
+.card {
+    padding-bottom: 15px;
+}
+
+.card-group {
+    padding: 75px 0;
+}
+.card-header {
+    text-align: center;
+    background-color: #000000;
+    font-weight: bold;
+    color: white;
+    font-size: 25px;
+}
+.card-text {
+    text-align: center;
+}
+
+.footer {
+    border-top: 1px #eee solid ;
+    border-top-color: #BCB0B0;
+    text-align: center;
+}
+.rs{
+    width: 45px;
+    height: 35px;
+}
+.contact{
+    color: gray;
+}
